@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=trounceabout&label=Profile%20views&color=0e75b6&style=flat" alt="trounceabout" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=trounceabout" alt="trounceabout" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/trounceabout" target="blank"><img src="https://img.shields.io/twitter/follow/trounceabout?logo=twitter&style=for-the-badge" alt="trounceabout" /></a> </p>
 
 - 🌱 I’m currently learning **Vue.js**
