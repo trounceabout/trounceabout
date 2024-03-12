@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **codykeisler@gmail.com**
 
-- 📄 Know about my experiences [https://my.indeed.com/p/ethank-lxtn35l](https://my.indeed.com/p/ethank-lxtn35l)
+- 📄 Know about my experiences [read.cv/codykeisler](https://read.cv/codykeisler)
 
 - ⚡ Fun fact **I love coffee and D&D 🧙‍♂️**
 
