@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **prototyping with Figma**
 
-- 📫 How to reach me **codykeisler@gmail.com**
+- 📫 How to reach me **cody@internaltransit.com**
 
 - 📄 Know about my experiences [read.cv/codykeisler](https://read.cv/codykeisler)
 
